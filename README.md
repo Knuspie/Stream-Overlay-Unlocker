@@ -1,2 +1,2 @@
 # Stream-Overlay-Unlocker
-![Screenshot](Stream Overlay Unlocker Preview.png)
+![Screenshot](SOU-Preview.png)
